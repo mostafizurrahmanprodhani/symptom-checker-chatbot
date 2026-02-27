@@ -1,4 +1,4 @@
-A rule-based AI symptom checker chatbot built using pure Python.
+# A rule-based AI symptom checker chatbot built using pure Python.
 
 Features:
 • Console-based chatbot
